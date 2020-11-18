@@ -1,2 +1,2 @@
-# MY-ANGRY-BIRDS
-PLAY THE GAMEEEEEEEEEEEEEE.............
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
